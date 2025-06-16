@@ -1,8 +1,8 @@
 # Hello, I am Aniha 👋
 
-Aspiring QA engineer with a passion for writing test automation scripts—almost as much as I enjoy gym sessions, cats, and long walks 🐾💪
+Aspiring QA Engineer with hands-on experience in test automation using Selenium, Pytest, Playwright, and Robot Framework.
 
-With background in tech support and claims, I have now shifted my focus to quality assurance and test automation using Selenium, Pytest, Playwright, and Robot Framework. Currently sharpening my skills and actively seeking QA opportunities.
+Bringing a background in technical support and insurance claims, I’ve transitioned into quality assurance with a strong focus on building reliable, maintainable test scripts. Currently enhancing my skills through real-world automation projects and actively seeking entry-level QA roles where I can contribute to product quality, team efficiency, and continuous improvement.
 
 ## What my repos show
 - ✅ Login validation with Data Driven Testing  
