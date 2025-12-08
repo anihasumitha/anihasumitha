@@ -1,4 +1,4 @@
-# Hello, I am Aniha 👋
+# Hello, I am Aniha !
 
 I work across software testing, automation, and embedded systems. My repos reflect whatever I’m learning, improving, or reverse-engineering at the moment.
 
